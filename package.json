@@ -6,14 +6,7 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {
-    "ws": "^8.4.2",
-    "node-pkg-installer": "^0.5.2",
-    "node": "^17.4.0",
-    "dev-null": "^0.1.1",
-    "alloy": "^1.17.3",
-    "eslint-config-alloy": "^4.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,16 +17,13 @@
     "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
   },
   "keywords": [
-    "proxy",
-    "titanium network",
-    "alloy",
-    "alloyproxy",
-    "web unblocker",
-    "unblock",
-    "web proxy",
     "school",
-    "workplace",
-    "web filter"
+    "audio books",
+    "books",
+    "kids",
+    "web books",
+    "books4kids2022",
+    
   ],
   "author": "Titanium Network",
   "license": "ISC",
